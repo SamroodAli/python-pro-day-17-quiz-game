@@ -4,8 +4,8 @@ question_data = [
     {"text": "Approximately one quarter of human bones are in the feet.", "answer": "True"},
     {"text": "The total surface area of a human lungs is the size of a football pitch.", "answer": "True"},
     {
-        "text": """In West Virginia, USA, if you accidentally hit an animal with your car,
-        you are free to take it home to eat.""",
+        "text": "In West Virginia, USA, if you accidentally hit an animal with your car,"
+                "you are free to take it home to eat.",
         "answer": "True"},
     {"text": "In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral.",
      "answer": "False"},
